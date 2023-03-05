@@ -18,6 +18,6 @@ The South West Main Line from Southampton Central to Dorchester South
 
 ## Data Sources
 
-- RealTimeTrains
-- OpenRailwayMap
-- Traksy
+- [RealTimeTrains](https://www.realtimetrains.co.uk/)
+- [Traksy](https://traksy.uk/live)
+- [OpenRailwayMap](https://www.openrailwaymap.org/)
