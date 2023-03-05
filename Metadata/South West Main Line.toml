@@ -1,0 +1,13 @@
+author = 'Oxalin'
+country_code = 'GB'
+description = "The South West Main Line from Southampton Central to Dorchester South"
+display_name = 'South West Main Line'
+doc_files = [ 'South West Main Line.md' ]
+factual = true
+img_files = [ 'South West Main Line.bmp' ]
+name = 'South West Main Line'
+release_date = '2023-02-23'
+rly_file = 'South West Main Line.rly'
+ssn_files = [ 'South West Main Line Initial Session.ssn']
+ttb_files = [ 'South West Main Line 15-03-23.ttb' ]
+version = '1.0.0'
